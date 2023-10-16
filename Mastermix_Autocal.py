@@ -10,8 +10,8 @@ import os
 
 '''
 Tạo cửa sổ tkinter, chú ý phải có main.loop nếu không cửa sổ sẽ không hiện.
-Dùng lệnh zoom để mở fullscreen màn hình.
-Lệnh geometry để khai báo kích thước khi thu nhỏ màn hình.
+Dùng lệnh zoom để mở fullscreen màn hình
+Lệnh geometry để khai báo kích thước khi thu nhỏ màn hình
 '''
 window_main = Tk()
 window_main.title('Mastermix Auto Cal_230222')    # thay đổi version để biết version đang sử dụng
